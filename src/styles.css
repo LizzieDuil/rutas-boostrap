@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: monserrar;
+    background: linear-gradient(150deg,#037979,#85dbdb);
+    height: 100vh;
+}
+
+.card{
+    position:center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    width: 400px;
+    border-radius: 10px;
+}
+.logo{
+    position:center;
+    top: 100%;
+    left: 100%;
+    width: 1400px;
+    border-radius: 10px;
+    
+   
+}
+.form-label{
+    width: 350px;
+}
+.mp-3{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: fit-content;    
+}
+
+
+
